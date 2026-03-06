@@ -1,0 +1,19 @@
+12:14:43 pm  [main] 	Initializing Control Panel
+12:14:43 pm  [main] 	Windows Version:  Enterprise  64-bit
+12:14:43 pm  [main] 	XAMPP Version: 8.2.12
+12:14:43 pm  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:14:43 pm  [main] 	You are not running with administrator rights! This will work for
+12:14:43 pm  [main] 	most application stuff but whenever you do something with services
+12:14:43 pm  [main] 	there will be a security dialogue or things will break! So think 
+12:14:43 pm  [main] 	about running this application with administrator rights!
+12:14:43 pm  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:14:43 pm  [main] 	Checking for prerequisites
+12:14:44 pm  [main] 	All prerequisites found
+12:14:44 pm  [main] 	Initializing Modules
+12:14:44 pm  [main] 	Starting Check-Timer
+12:14:44 pm  [main] 	Control Panel Ready
+12:14:58 pm  [Apache] 	Status change detected: running
+12:15:01 pm  [mysql] 	Status change detected: running
+7:53:13 pm  [main] 	Deinitializing Modules
+7:53:13 pm  [main] 	Deinitializing Control Panel
+
